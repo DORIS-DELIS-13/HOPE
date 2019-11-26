@@ -1,0 +1,16 @@
+C:\Курсач\HOPE_13\HOPE_13\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Курсач\HOPE_13\HOPE_13\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Курсач\HOPE_13\HOPE_13\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Курсач\HOPE_13\HOPE_13\bin\Debug\netcoreapp2.1\HOPE_13.deps.json
+C:\Курсач\HOPE_13\HOPE_13\bin\Debug\netcoreapp2.1\HOPE_13.runtimeconfig.json
+C:\Курсач\HOPE_13\HOPE_13\bin\Debug\netcoreapp2.1\HOPE_13.runtimeconfig.dev.json
+C:\Курсач\HOPE_13\HOPE_13\bin\Debug\netcoreapp2.1\HOPE_13.dll
+C:\Курсач\HOPE_13\HOPE_13\bin\Debug\netcoreapp2.1\HOPE_13.pdb
+C:\Курсач\HOPE_13\HOPE_13\obj\Debug\netcoreapp2.1\HOPE_13.csprojAssemblyReference.cache
+C:\Курсач\HOPE_13\HOPE_13\obj\Debug\netcoreapp2.1\HOPE_13.RazorAssemblyInfo.cache
+C:\Курсач\HOPE_13\HOPE_13\obj\Debug\netcoreapp2.1\HOPE_13.RazorAssemblyInfo.cs
+C:\Курсач\HOPE_13\HOPE_13\obj\Debug\netcoreapp2.1\HOPE_13.AssemblyInfoInputs.cache
+C:\Курсач\HOPE_13\HOPE_13\obj\Debug\netcoreapp2.1\HOPE_13.AssemblyInfo.cs
+C:\Курсач\HOPE_13\HOPE_13\obj\Debug\netcoreapp2.1\HOPE_13.RazorTargetAssemblyInfo.cache
+C:\Курсач\HOPE_13\HOPE_13\obj\Debug\netcoreapp2.1\HOPE_13.dll
+C:\Курсач\HOPE_13\HOPE_13\obj\Debug\netcoreapp2.1\HOPE_13.pdb
